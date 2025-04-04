@@ -36,3 +36,5 @@ while player == False:
 
 player = False
 computer = t[randint(0,2)]
+
+# We thank you for trying something new!
